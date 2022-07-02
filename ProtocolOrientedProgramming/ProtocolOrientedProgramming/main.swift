@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+let apple = Charger(maximumWattPerHour: 5)
+let iphone = Charger(maximumWattPerHour: 18)
+let iPad = Charger(maximumWattPerHour: 30)
+let macBookAir = Charger(maximumWattPerHour: 96)
+let macBookPro = Charger(maximumWattPerHour: 106)
+
